@@ -7,6 +7,7 @@
 bairanokhaeva@gmail.com
 
 [@baya_plush (Telegram)](https://t.me/baya_plush)
+
 Discord: Baya
 
 
@@ -33,7 +34,7 @@ function multiply(a, b){
 
 ### Courses:
 
-Roling Scopes Stage #0 in progress
+RS School Stage #0 in progress
 
 ### Languages:
 * Russian: Native

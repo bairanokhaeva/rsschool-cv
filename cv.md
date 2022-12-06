@@ -22,6 +22,7 @@ So here we go!
 ### Skills and Proficiency
 
 Html, CSS in progress
+
 JavaScript in progress
 
 ### Code example:
